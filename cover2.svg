@@ -1,1 +1,15 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="غلاف: حب محتمل">
+<defs><linearGradient id="s2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e1b4b"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#s2)"/>
+<circle cx="240" cy="140" r="70" fill="#fde68a" opacity=".9"/>
+<g fill="#fff" opacity=".75"><circle cx="80" cy="70" r="2"/><circle cx="420" cy="60" r="2.5"/><circle cx="640" cy="100" r="2"/><circle cx="900" cy="60" r="2"/><circle cx="1090" cy="140" r="2.5"/><circle cx="1140" cy="260" r="2"/></g>
+<g opacity=".28" fill="#fff"><path d="M980 130 c-14-26-52-26-60 2 -6 22 8 40 60 74 52-34 66-52 60-74 -8-28-46-28-60-2Z"/><path d="M180 300 c-9-17-34-17-39 1 -4 14 5 26 39 48 34-22 43-34 39-48 -5-18-30-18-39-1Z"/></g>
+<path d="M0 480 Q200 420 400 460 T800 450 T1200 440 V630 H0Z" fill="#3b2a5a"/>
+<path d="M0 545 Q250 490 520 535 T1040 525 T1200 515 V630 H0Z" fill="#241a3d"/>
+<g fill="#241a3d"><rect x="140" y="478" width="80" height="62"/><path d="M140 478 a40 40 0 0 1 80 0Z"/><rect x="240" y="496" width="55" height="44"/><rect x="840" y="462" width="110" height="78"/><path d="M840 462 a55 55 0 0 1 110 0Z"/><rect x="975" y="486" width="65" height="54"/><rect x="560" y="430" width="20" height="105"/><path d="M560 430 L570 396 L580 430Z"/><rect x="600" y="455" width="14" height="80"/><path d="M600 455 L607 428 L614 455Z"/></g>
+<g fill="#fde68a" opacity=".9"><rect x="162" y="506" width="9" height="14"/><rect x="868" y="494" width="9" height="14"/><rect x="896" y="494" width="9" height="14"/></g>
+<path d="M600 205 c-22-40-82-40-94 3 -9 34 13 62 94 116 81-54 103-82 94-116 -12-43-72-43-94-3Z" fill="#fb7185" opacity=".95"/>
+<text x="600" y="400" text-anchor="middle" font-family="Tahoma, 'Noto Sans Arabic', Arial, sans-serif" font-size="118" font-weight="bold" fill="#fff" direction="rtl">حب محتمل</text>
+<text x="600" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#fde68a" letter-spacing="10">MUHTEMEL AŞK</text>
+<text x="600" y="512" text-anchor="middle" font-family="Tahoma, 'Noto Sans Arabic', Arial, sans-serif" font-size="27" fill="#fff" opacity=".85" direction="rtl">رسم أصلي مستوحى من أجواء إسطنبول</text>
+</svg>
