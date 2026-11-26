@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://segavid.github.io/sitemap.xml
